@@ -1,8 +1,10 @@
 # vite-react-mulakat
 
-Lütfen projeyi clone'ladıktan sonra #npm install 
+Lütfen projeyi clone'ladıktan sonra 
+#npm install 
 
 yazıp gerekn modülleri yükleyin. Ardından,
+
 #npm run dev
 
 yazarak projeyi localhost'unuzda çalıştırın.
