@@ -9,7 +9,7 @@ yazıp gerekn modülleri yükleyin. Ardından,
 
 yazarak projeyi localhost'unuzda çalıştırın.
 
-Uygulama, inputtan fiyatların tek tek girilmesini ve enter'a basarak kaydedilmesini bekler. Hesapla butonuna basıldığında girilmiş fiyatlar üzerinden maksimum kar oranını hesaplar.
+Uygulama, inputtan fiyatların tek tek girilmesini ve enter'a basarak kaydedilmesini bekler. Hesapla butonuna basıldığında girilmiş fiyatlar üzerinden maksimum kar oranını hesaplar. Console'a yazdırır.
 
 Soruda verilen örnek'te 3 * 80 = 240 yerine 320 olarak hesaplanmış. Bundan dolayı 3 * 80 detayını görmediğimden dolayı 320 sonucuna erişmek için nerede hata yaptığımı çok sorguladım. Düzeltirseniz diğer arkadaşlar için faydalı oalbilir.
 
